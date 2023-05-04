@@ -8,7 +8,7 @@ Es un proyecto hecho con las siguientes tecnologias y herramientas.
 - prettier + eslint
 - swagger
 
-Para la construcción del proyecto se siguió las practicas de Nestjs para la creación de monorepos. https://docs.nestjs.com/cli/monorepo
+Para la construcción del proyecto se siguió las practicas de Nestjs.
 
 Para poder ejecutar correctamente el proyecto se debe crear el archivo .env y deben configurar las variables de entorno correspondientes. Al repositorio se subió unos ejemplos de variables
 
